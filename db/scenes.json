@@ -1,0 +1,95 @@
+{
+	"sub1":{
+		"cues": [
+			{
+				"hue": 47125,
+				"transitionTime": 0.1,
+				"brightness": 100
+			},
+			{
+				"hue": 65527,
+				"transitionTime": 0.1,
+				"brightness": 100
+			},
+						{
+				"hue": 47125,
+				"transitionTime": 0.1,
+				"brightness": 100
+			},
+			{
+				"hue": 65527,
+				"transitionTime": 0.1,
+				"brightness": 100
+			},
+						{
+				"hue": 47125,
+				"transitionTime": 5,
+				"brightness": 100
+			},
+			{
+				"hue": 65527,
+				"transitionTime": 0.5,
+				"brightness": 100
+			},
+						{
+				"hue": 47125,
+				"transitionTime": 0.5,
+				"brightness": 100
+			},
+			{
+				"hue": 65527,
+				"transitionTime": 0.5,
+				"brightness": 100
+			}
+		]
+	},
+	"follow":{
+		"cues": [
+			{
+				"hue": 22222,
+				"transitionTime": 0.1,
+				"brightness": 100
+			},
+			{
+				"hue": 44444,
+				"transitionTime": 0.1,
+				"brightness": 100
+			},
+			{
+				"hue": 22222,
+				"transitionTime": 0.1,
+				"brightness": 100
+			},
+			{
+				"hue": 22222,
+				"transitionTime": 5,
+				"brightness": 100
+			},
+			{
+				"hue": 44444,
+				"transitionTime": 0.1,
+				"brightness": 100
+			},
+			{
+				"hue": 22222,
+				"transitionTime": 0.1,
+				"brightness": 100
+			},
+			{
+				"hue": 44444,
+				"transitionTime": 0.1,
+				"brightness": 100
+			},
+			{
+				"hue": 22222,
+				"transitionTime": 0.1,
+				"brightness": 100
+			},
+			{
+				"hue": 44444,
+				"transitionTime": 0.1,
+				"brightness": 100
+			}
+		]
+	}		
+}
